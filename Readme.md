@@ -36,10 +36,6 @@ Follow the on-screen instructions to play the game. You'll be prompted to enter 
 
 - [Lucas](https://github.com/lucaslight) - The game developer
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Special thanks to [Colorize](https://github.com/fazibear/colorize) for making the game colorful.
